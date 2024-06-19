@@ -1,0 +1,10 @@
+in 00keymap.rpy 
+
+its now 
+
+# Say.
+        
+        dismiss = [ 'K_RETURN', 'K_SPACE', 'K_KP_ENTER', 'K_SELECT', 'mouseup_1' ],
+        dismiss_unfocused = [ ],
+
+remove: rollforward = [ 'any_K_PAGEDOWN', 'any_KP_PAGEDOWN', 'mousedown_5', ],
